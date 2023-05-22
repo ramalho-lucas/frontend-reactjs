@@ -36,7 +36,7 @@
       - O Vite utiliza ferramentas muito diferentes das usadas pelo CRA. As suas finalidades são as mesmas, mas muda o approach. 
       - Features pre-configuradas: ESBUILD, Suporte TypeScript, Suporte Nativo a pre-processadores (less ou sass)
       - HMR (Hot Module Replacement)
-      - Para criar o projeto basta termos o Node.js (com npm) instalado e executar `npx create vite`, mudar para o diretorio do projeto `cd nome do projeto`, `npm install`+ `npx run dev` para rodar
+      - Para criar o projeto basta termos o Node.js (com npm) instalado e executar `npm create vite`, mudar para o diretorio do projeto `cd nome do projeto`, `npm install`+ `npx run dev` para rodar
       
       
    - Uma opção ao NPM é utilizar o Yarn, no terminal do VsCode digitar `yarn`
